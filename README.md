@@ -17,9 +17,15 @@ Projeto de um simplificador e normalizador de gramáticas livres de contexto fei
     
 ### Como usar no terminal
 
+Procure o caminho da pasta que contém os tres arquivos:
+
+    FuncGramaticas.py
+    entrada.txt
+    main.py
+    
 Abra o cmd e digite:
 
-    cd ' caminhoDoArquivo '
+    cd ' caminhoDaPasta '
     
 Utilize o comando:
         
