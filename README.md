@@ -1,6 +1,6 @@
  ## Simplificador e normalizador de gramáticas 
 
-Projeto de um simplificador e normalizador de gramáticas livres de contexto feito na linguagem python.
+Projeto de um simplificador e normalizador de gramáticas livres de contexto feito na linguagem python. (Incompleto)
 
 
 ## Funcionalidades
